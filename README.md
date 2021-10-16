@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peter.
 - 👀 I’m interested in machine learning, deep learning, and programming algorithms.
-- 🌱 I’m currently learning yolo algorithm for object detection project.
+- 🌱 I’m currently learning yolo algorithm for object detection.
 - 💞️ I’m looking to collaborate on anything if I have the capacity to.
 - 📫 How to reach me
 
