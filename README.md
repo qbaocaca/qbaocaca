@@ -4,9 +4,9 @@
 
 👀 I’m interested in machine learning, deep learning, and programming algorithms.
 
-🌱 I’m currently learning yolo algorithm for object detection.
+🌱 I’m currently practicing C++.
 
-💞️ I’m looking to collaborate on anything if I have the capacity to.
+💞️ I’m looking to collaborate on anything if I have the capacity.
 
 📫 How to reach me
 
