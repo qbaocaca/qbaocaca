@@ -1,18 +1,26 @@
-- 👋 Hi, I’m Peter.
-- 👀 I’m interested in machine learning, deep learning, and programming algorithms.
-- 🌱 I’m currently learning yolo algorithm for object detection.
-- 💞️ I’m looking to collaborate on anything if I have the capacity to.
-- 📫 How to reach me
+&nbsp;
 
-facebook: https://www.facebook.com/profile.php?id=100071330814469
+👋 Hi, I’m Peter.
 
-instagram: https://www.instagram.com/bao_kka/
+👀 I’m interested in machine learning, deep learning, and programming algorithms.
 
-youtube: https://www.youtube.com/channel/UChKZrFntQ8evUsnyfLoEExw
+🌱 I’m currently learning yolo algorithm for object detection.
 
-tiktok: https://www.tiktok.com/@bao_kato09?lang=en
+💞️ I’m looking to collaborate on anything if I have the capacity to.
 
-wordpress: https://edenxsblog.wordpress.com/
+📫 How to reach me
+
+&nbsp;
+
+Facebook: https://www.facebook.com/profile.php?id=100071330814469
+
+Instagram: https://www.instagram.com/bao_kka/
+
+Youtube: https://www.youtube.com/channel/UChKZrFntQ8evUsnyfLoEExw
+
+Tiktok: https://www.tiktok.com/@bao_kato09?lang=en
+
+Blog: https://edenxsblog.wordpress.com/
 
 <!---
 qbaocaca/qbaocaca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
