@@ -1,10 +1,10 @@
 &nbsp;
 
-👋 Hi, I’m Peter.
+👋 Hi, I’m Peter. 3rd year student from University of Information Technology VNU-HCM.
 
 👀 I’m interested in machine learning, deep learning, and programming algorithms.
 
-🌱 I’m currently practicing C++.
+🌱 I’m currently revising my machine learning knowledge.
 
 💞️ I’m looking forward to collaborate on anything if I have the capacity.
 
