@@ -6,7 +6,7 @@
 
 🌱 I’m currently practicing C++.
 
-💞️ I’m looking to collaborate on anything if I have the capacity.
+💞️ I’m looking forward to collaborate on anything if I have the capacity.
 
 📫 How to reach me
 
