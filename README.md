@@ -32,6 +32,16 @@
 
 <img align="left" alt="Erlang" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Erlang_logo.svg" />
 
+<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
+
+<br />
+
+### My Github stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qbaocaca&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qbaocaca&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 qbaocaca/qbaocaca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
