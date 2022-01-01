@@ -38,9 +38,9 @@
 
 ### My Github stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qbaocaca&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qbaocaca&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qbaocaca&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qbaocaca&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 qbaocaca/qbaocaca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
