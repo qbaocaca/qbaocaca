@@ -20,7 +20,7 @@ Youtube: https://www.youtube.com/channel/UChKZrFntQ8evUsnyfLoEExw
 
 Tiktok: https://www.tiktok.com/@bao_kato09?lang=en
 
-Blog: https://edenxsblog.wordpress.com/
+Blog: https://blogbybao.wordpress.com/
 
 <!---
 qbaocaca/qbaocaca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
