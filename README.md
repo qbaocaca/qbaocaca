@@ -1,6 +1,6 @@
 ### 👋 Hi there, I’m Peter.
 
-## I'm a CS Undergrade student!
+## I'm a CS Undergraduate student!
 
 👀 I’m interested in machine learning, deep learning, and programming algorithms.
 
