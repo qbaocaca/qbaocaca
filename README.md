@@ -20,6 +20,8 @@
 
 [<img align="left" alt="baocaca | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][blog]
 
+[<img align="left" alt="baocaca | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 <br />
 
 ### Languages and Tools:
@@ -54,3 +56,4 @@ You can click the Preview link to take a look at your changes.
 [youtube]: https://www.youtube.com/channel/UChKZrFntQ8evUsnyfLoEExw
 [tiktok]: https://www.tiktok.com/@bao_kato09?lang=en
 [blog]: https://blogbybao.wordpress.com/
+[linkedin]: https://www.linkedin.com/in/quocbaocaca/
