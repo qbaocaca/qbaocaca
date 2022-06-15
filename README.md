@@ -61,6 +61,8 @@
 ## 📺 **Youtube Videos**
 
 <!-- YOUTUBE:START -->
+- [Visualize images in image classification task.](https://www.youtube.com/watch?v=vzr0pAU0BC0)
+- [Full Pytorch training pipeline on image classification task.](https://www.youtube.com/watch?v=tfYR8JMt0xA)
 <!-- YOUTUBE:END -->
 
 [facebook]: https://www.facebook.com/profile.php?id=100071330814469
