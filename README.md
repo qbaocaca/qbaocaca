@@ -58,6 +58,11 @@
 - [Introduction to OOP and array class implementation [part 2]](https://dev.to/qbaocaca/introduction-to-oop-and-array-class-implementation-part-2-1dki)
 <!-- BLOG-POST-LIST:END -->
 
+## 📺 **Youtube Videos**
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 [facebook]: https://www.facebook.com/profile.php?id=100071330814469
 [instagram]: https://www.instagram.com/bao_kka/
 [youtube]: https://www.youtube.com/channel/UChKZrFntQ8evUsnyfLoEExw
