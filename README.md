@@ -1,18 +1,16 @@
-## 👋 Hi there, I’m Peter.
+## 👋 **Hi there, I’m Peter.**
 
 <div align="center">
   <img alt="baocaca | Nuxtocat" width="300" height="300" src="https://spanglishjmlp.files.wordpress.com/2020/09/blog-7.gif" />
 </div>
 
-## 🧑‍🎓 I'm a CS Undergraduate student!
+## 🧑‍🎓 **I'm a CS Undergraduate student!**
 
 👀 I’m interested in machine learning and deep learning.
 
 🌱 I’m currently applying for an AI training program.
 
 💞️ I’m looking forward to collaborate on an ML project.
-
-&nbsp;
 
 ## 📫 **Connect with me:**
 
@@ -37,16 +35,12 @@
 
 &nbsp;
 
-&nbsp;
-
 ## 🔥 **My Github Stats:**
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=qbaocaca&theme=midnight-purple)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qbaocaca&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qbaocaca&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
-
-&nbsp;
 
 ## ✍️ **Blog Posts:**
 
@@ -58,7 +52,7 @@
 - [Introduction to OOP and array class implementation [part 2]](https://dev.to/qbaocaca/introduction-to-oop-and-array-class-implementation-part-2-1dki)
 <!-- BLOG-POST-LIST:END -->
 
-## 📺 **Youtube Videos**
+## 📺 **Youtube Videos:**
 
 <!-- YOUTUBE:START -->
 - [Visualize images in image classification task.](https://www.youtube.com/watch?v=vzr0pAU0BC0)
