@@ -59,6 +59,8 @@
 - [Full Pytorch training pipeline on image classification task.](https://www.youtube.com/watch?v=tfYR8JMt0xA)
 <!-- YOUTUBE:END -->
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qbaocaca&repo=image_classification&show_owner=1&theme=aura)](https://github.com/qbaocaca/image_classification)
+
 [facebook]: https://www.facebook.com/profile.php?id=100071330814469
 [instagram]: https://www.instagram.com/bao_kka/
 [youtube]: https://www.youtube.com/channel/UChKZrFntQ8evUsnyfLoEExw
