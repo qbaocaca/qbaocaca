@@ -46,11 +46,11 @@
 ## ✍️ **Blog Posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [Convert my Pytorch model to Pytorch Lightning](https://dev.to/qbaocaca/convert-my-pytorch-model-to-pytorch-lightning-8ha)
 - [FruitsClassifier on Fruits 360](https://dev.to/qbaocaca/fruitsclassifier-on-fruits-360-2653)
 - [FruitsClassifier with Pytorch Lightning 🍉](https://dev.to/qbaocaca/fruitsclassifier-with-pytorch-lightning-49gi)
 - [My Pytorch Training Pipeline in Image Classification](https://dev.to/qbaocaca/my-pytorch-training-pipeline-in-image-classification-dg7)
 - [Binary Search Tree Class Implementation](https://dev.to/qbaocaca/binary-search-tree-class-implementation-42mm)
-- [String class implementation](https://dev.to/qbaocaca/string-class-implementation-414o)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 **Youtube Videos:**
