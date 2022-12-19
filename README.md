@@ -1,18 +1,10 @@
-## 👋 **Hi there, I’m Peter.**
+## :trophy: **I attract wealth. money, prosperity.**
 
 <div align="center">
-  <img alt="baocaca | Nuxtocat" width="300" height="300" src="https://spanglishjmlp.files.wordpress.com/2020/09/blog-7.gif" />
+  <img alt="gold" width="670" height="347" src="https://cdn.pocket-lint.com/r/s/1201x/assets/images/161511-apps-news-best-gold-investment-companies-of-2022-a-comprehensive-guide-image1-q2hm63pz8n.jpg" />
 </div>
 
-## 🧑‍🎓 **I'm a CS Undergraduate student!**
-
-👀 I’m interested in machine learning and deep learning.
-
-🌱 I’m currently applying for an AI training program.
-
-💞️ I’m looking forward to collaborate on an ML project.
-
-## 📫 **Connect with me:**
+## :trumpet: **Connect with me:**
 
 [<img align="left" alt="baocaca | Facebook" width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="baocaca | Instagram" width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -25,7 +17,7 @@
 
 &nbsp;
 
-## 🛠️ **Languages and Tools:**
+## :moneybag: **Languages and Tools:**
 
 <img align="left" alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -36,14 +28,14 @@
 
 &nbsp;
 
-## 🔥 **My Github Stats:**
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=qbaocaca&theme=midnight-purple)](https://git.io/streak-stats)
+## :gift: **My Github Stats:**
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=qbaocaca&theme=solarized-light)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qbaocaca&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qbaocaca&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qbaocaca&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qbaocaca&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
 
-## ✍️ **Blog Posts:**
+## :yellow_heart: **Blog Posts:**
 
 <!-- BLOG-POST-LIST:START -->
 - [Convert my Pytorch model to Pytorch Lightning](https://dev.to/qbaocaca/convert-my-pytorch-model-to-pytorch-lightning-8ha)
@@ -53,14 +45,14 @@
 - [Binary Search Tree Class Implementation](https://dev.to/qbaocaca/binary-search-tree-class-implementation-42mm)
 <!-- BLOG-POST-LIST:END -->
 
-## 📺 **Youtube Videos:**
+## :crown: **Youtube Videos:**
 
 <!-- YOUTUBE:START -->
 - [Visualization in image classification.](https://www.youtube.com/watch?v=vzr0pAU0BC0)
 - [Full Pytorch Training Pipeline on Image Classification](https://www.youtube.com/watch?v=tfYR8JMt0xA)
 <!-- YOUTUBE:END -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qbaocaca&repo=image_classification&show_owner=1&theme=aura)](https://github.com/qbaocaca/image_classification)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qbaocaca&repo=image_classification&show_owner=1&theme=solarized-light)](https://github.com/qbaocaca/image_classification)
 
 [facebook]: https://www.facebook.com/profile.php?id=100071330814469
 [instagram]: https://www.instagram.com/bao_kka/
