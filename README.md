@@ -1,9 +1,3 @@
-## :trophy: **I attract wealth. money, prosperity.**
-
-<div align="center">
-  <img alt="gold" width="670" height="347" src="https://cdn.pocket-lint.com/r/s/1201x/assets/images/161511-apps-news-best-gold-investment-companies-of-2022-a-comprehensive-guide-image1-q2hm63pz8n.jpg" />
-</div>
-
 ## :trumpet: **Connect with me:**
 
 [<img align="left" alt="baocaca | Facebook" width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
